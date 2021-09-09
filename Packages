@@ -1,0 +1,15 @@
+Package: firecapture
+Version: 2.6
+Architecture: all
+Maintainer: Torsten Edelmann <firecapture@wonderplanets.de>
+Filename: ./FireCapture_v2.6.deb
+Size: 49571360
+MD5sum: 37c4ac994ae825b3ab8b1cdf2818691f
+SHA1: 2ee6c1c5c0d9bed18bb1e8b135eda5435888cce0
+SHA256: f9da276343493aece9539ca072199a81939e71d113c7b86fe513947723b6ffc5
+Homepage: http://www.firecapture.de
+Description: FireCapture
+Author: Torsten Edelmann <firecapture@wonderplanets.de>
+Name: FireCapture v2.6
+Website: http://www.firecapture.de
+
